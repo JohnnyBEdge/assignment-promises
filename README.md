@@ -47,8 +47,6 @@ What is a Promise?
 How do we use Promises? 
 
 What are the benefits of using Promises? 
----
 
 ## Deliverables:
 Provide a link to your Github page. Answer the questions in a readme.txt file.  
---- 
